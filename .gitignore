@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.pdb
+artifacts/
+dist/
+.DS_Store
+Thumbs.db
+.vs/
