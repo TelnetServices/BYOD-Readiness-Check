@@ -1,4 +1,4 @@
-# Telnet BYOD Readiness Check
+﻿# Telnet BYOD Readiness Check
 
 This is a small Windows program Telnet asks homeworkers to run so we can confirm your computer is ready for Amazon Connect and working from home.
 
@@ -6,7 +6,9 @@ This is a small Windows program Telnet asks homeworkers to run so we can confirm
 
 **[Download the latest version](https://github.com/TelnetServices/BYOD-Readiness-Check/releases/latest)**
 
-Choose the `.exe` file on the release page (for example `TelnetReadinessCheck-v1.3.13.exe`).
+Choose the `.exe` file on the release page (for example `TelnetReadinessCheck-v1.4.0.exe`).
+
+Recent versions can update themselves automatically when a newer release is published here.
 
 ## How to run it
 
